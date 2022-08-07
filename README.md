@@ -15,3 +15,6 @@ Negative Image Count 173
 Number of Stages 15
 
 Sample Width 36
+
+# Reference
+https://www.youtube.com/watch?v=dZ4itBvIjVY
