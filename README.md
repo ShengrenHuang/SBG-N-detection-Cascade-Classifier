@@ -3,6 +3,7 @@
 Inspired by [1], we aim to create a cascade classifier to detect something different in this practice. We select a GNSS and IMU integrated module, SBG-N, as our detection object. Using the webcam, we capture the different angles of the SBG-N to gather positive images. Meanwhile, we collect some frames without SBG-N to be our negative images. Then we employ Cascade Trainer GUI based on Opencv [2] to train our cascade classifier with the following parameters:
 1. Number of Stages 15
 2. Sample Width 36.  
+
 The result shows that the performance of the classifier is pretty well. 
 
 
